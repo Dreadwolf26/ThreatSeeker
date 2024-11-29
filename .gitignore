@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Exclude certain files
+
+config.json
+repurpose.py
